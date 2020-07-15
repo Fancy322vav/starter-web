@@ -28,5 +28,6 @@ Please fork this repository and then issue
 Pull requests for review.
 
 ### Copyright
+All rights reserved.
 
 2020 Git.Training
